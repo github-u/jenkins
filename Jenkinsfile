@@ -1,4 +1,3 @@
-Jenkinsfile (Declarative Pipeline)
 pipeline {
     agent {
 	docker {image 'maven:3.8.4-jdk-8'}
